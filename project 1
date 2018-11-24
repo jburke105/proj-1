@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title> Hello world</title>
+</head>
+
+<body> 
+
+	<div id= “header”>
+		<h1> Welcome to my website </h1> 
+	</div>
+	
+	<div class = “myclass”
+<h2> This is my first <span class = “red”> webpage </span>. </h2> <br /> <p> I hope you like it. </p>
+</div>
+
+</body>
+
+
+
+
+<img src= "/Users/JackBurke/Desktop/images/petolas.jpg">
+
+</html>
